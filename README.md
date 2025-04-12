@@ -20,8 +20,7 @@ This application is a simple web interface that utilizes the T5 model to summari
 1.  Clone the repository:
 
     ```bash
-    git clone [repository link]
-    cd [folder name]
+    git clone [[repository link](https://huggingface.co/spaces/hadheedo/Summary)]
     ```
 
 2.  Install dependencies:
